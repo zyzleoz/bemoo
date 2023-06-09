@@ -1,0 +1,39 @@
+body {
+  background: linear-gradient(to bottom, #a90606d6, #000000);
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+}
+h1 {
+  font-family: harrington ;
+  font-size: 3em;
+  color: white;
+  margin-top: 50px;
+}
+
+.imagens img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  margin: 10px;
+  border-radius: 50%;
+  border: 5px solid white;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+.textos {
+  margin-top: 50px;
+
+}
+p {
+  font-family: garamond;
+  font-size: 1.3em;
+  line-height: 1.5;
+  color: rgb(255, 255, 255);
+}
